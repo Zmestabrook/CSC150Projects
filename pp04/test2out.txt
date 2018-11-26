@@ -1,0 +1,19 @@
+Financial Awareness
+Enter your starting balance $ 
+DEPOSITS
+-1 terminates input
+Enter deposit amount $ Enter deposit amount $ Enter deposit amount $ Enter deposit amount $ Enter deposit amount $ 
+CHECKS
+-1 terminates input
+Enter check amount $ Enter check amount $ Enter check amount $ Enter check amount $ 
+EXPENSES
+-1 terminates input
+Enter expense amount $ Enter expense amount $ Enter expense amount $ Enter expense amount $ 
+
+      Financial Summary
+==============================
+Starting Balance  $      56.00
+Deposits          $     950.32
+Checks            $     557.00
+Expenses          $     300.00
+Disposable Income $     149.32
