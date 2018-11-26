@@ -1,0 +1,508 @@
+Glendora
+Lakeport
+Indio
+
+Union City
+Newark
+Atherton
+Jackson
+Fresno
+Sebastopol
+Grover Beach
+
+Carmel-by-the-Sea
+Rocklin
+Newport Beach
+Holtville
+Yucca Valley
+Calexico
+
+Rancho Palos Verdes
+Blythe
+South Gate
+Cudahy
+Apple Valley
+Petaluma
+Hercules
+La Mesa
+Rolling Hills Estates
+Point Arena
+Adelanto
+Gridley
+Dixon
+Del Rey Oaks
+Isleton
+Lakewood
+Benicia
+Maricopa
+Paso Robles
+Lincoln
+
+San Diego
+Los Angeles
+
+Corte Madera
+Hidden Hills
+San Marcos
+Sunnyvale
+Yuba City
+Woodlake
+Fairfax
+Antioch
+Healdsburg
+San Mateo
+San Juan Bautista
+Tehachapi
+Sanger
+Wheatland
+Torrance
+Waterford
+Marysville
+Windsor
+Paradise
+Napa
+Menifee
+Mount Shasta
+Redondo Beach
+Fillmore
+Fortuna
+Portola
+Nevada City
+Avalon
+Escondido
+Loomis
+Los Alamitos
+Reedley
+Fontana
+Costa Mesa
+Yountville
+Los Altos Hills
+Albany
+Corona
+Greenfield
+Los Gatos
+Blue Lake
+San Pablo
+Farmersville
+Biggs
+Burbank
+Piedmont
+South San Francisco
+National City
+Sutter Creek
+Mendota
+Oakley
+Amador City
+
+Industry
+South El Monte
+St. Helena
+Yorba Linda
+Soledad
+Covina
+Huron
+Wildomar
+Suisun City
+Cypress
+Carpinteria
+Tehama
+Seal Beach
+Cotati
+Coachella
+Santa Rosa
+Walnut Creek
+East Palo Alto
+El Segundo
+Fountain Valley
+Fort Bragg
+Calabasas
+Pasadena
+Belmont
+Gustine
+Camarillo
+Watsonville
+Guadalupe
+San Bruno
+Red Bluff
+Woodside
+Arroyo Grande
+Lancaster
+Chula Vista
+Hayward
+Martinez
+San Dimas
+Woodland
+Anahei
+Bradbury
+Brisbane
+Los Banos
+Corcoran
+Highland
+Firebaugh
+Diamond Bar
+Oxnard
+San Bernardino
+Vernon
+Seaside
+Hughson
+Sausalito
+Riverbank
+Perris
+Pismo Beach
+Vista
+Azusa
+South Pasadena
+Huntington Park
+Fullerton
+Irwindale
+Goleta
+Pico Rivera
+Williams
+San Clemente
+California City
+
+Palo Alto
+Saratoga
+Palm Springs
+Mission Viejo
+
+Solana Beach
+Beverly Hills
+Rohnert Park
+Hollister
+Westminster
+Encinitas
+
+Lake Forest
+Canyon Lake
+Morgan Hill
+Westmorland
+Redlands
+La Habra
+Santa Clarita
+Los Altos
+Delano
+Patterson
+Tustin
+
+Placentia
+Rialto
+Monterey
+Chino Hills
+Daly City
+Needles
+Santa Clara
+Pacifica
+Ione
+McFarland
+San Juan Capistrano
+Colfax
+Colusa
+Scotts Valley
+San Rafael
+West Hollywood
+Cathedral City
+Signal Hill
+Sierra Madre
+San Anselmo
+Barstow
+Clovis
+Santa Monica
+Rio Dell
+Rancho Santa Margarita
+Rancho Mirage
+Santa Barbara
+San Jacinto
+Walnut
+Willits
+Foster City
+Atwater
+Simi Valley
+Kingsburg
+Victorville
+Agoura Hills
+Vacaville
+Ceres
+Dinuba
+Hawaiian Gardens
+Arcata
+Burlingame
+
+Brawley
+Chino
+Loyalton
+Modesto
+Downey
+Hesperia
+Salinas
+Cerritos
+Loma Linda
+Livermore
+Monterey Park
+Berkeley
+Big Bear Lake
+Garden Grove
+San Joaquin
+Taft
+Dana Point
+Laguna Woods
+Rancho Cordova
+Murrieta
+Ojai
+Buellton
+La Puente
+Paramount
+
+La Habra Heights
+El Cerrito
+Danville
+Galt
+Lemoore
+Ripon
+Wasco
+Alturas
+Tulelake
+Palos Verdes Estates
+Bell Gardens
+Stockton
+San Francisco
+Gilroy
+Carlsbad
+Eureka
+Pinole
+Roseville
+Rolling Hills
+Mill Valley
+Redding
+Selma
+Orinda
+Calimesa
+Sonora
+Rosemead
+Carson
+Plymouth
+Pleasant Hill
+Santa Paula
+Anderso
+Maywood
+Alameda
+
+San Leandro
+Shasta Lake
+Turlock
+
+Auburn
+Upland
+South Lake Tahoe
+Inglewood
+Pomona
+Artesia
+Sand City
+La Ca?ada Flintridge
+
+Twentynine Palms
+West Covina
+La Palma
+Campbell
+Temecula
+Etna
+Pleasanton
+
+Lathrop
+Palmdale
+Hermosa Beach
+Escalon
+Gonzales
+Livingston
+Madera
+Weed
+Cupertino
+Arcadia
+Lodi
+
+Villa Park
+Hanford
+Grass Valley
+La Quinta
+Hawthorne
+Millbrae
+Riverside
+Clearlake
+Merced
+Bishop
+Laguna Niguel
+Susanville
+Lafayette
+Ukiah
+Lompoc
+Pacific Grove
+Fairfield
+Orange Cove
+Exeter
+Pittsburg
+Corning
+Chico
+Chowchilla
+Tulare
+Shafter
+Moreno Valley
+Santa Maria
+Coronado
+Irvine
+Moorpark
+Angels Camp
+Santa Cruz
+Lomita
+Belvedere
+Duarte
+El Centro
+Port Hueneme
+Colma
+
+Menlo Park
+Winters
+Novato
+Grand Terrace
+Glendale
+
+Avenal
+Arvin
+Placerville
+Orland
+Monte Sereno
+San Marino
+Cloverdale
+Commerce
+Imperial
+Elk Grove
+El Monte
+Santee
+Hillsborough
+Lawndale
+La Verne
+Folsom
+Mammoth Lakes
+
+Compton
+Desert Hot Springs
+Citrus Heights
+Manteca
+Montebello
+Palm Desert
+San Gabriel
+Bell
+Bakersfield
+
+Ventura
+Gardena
+Coalinga
+Santa Ana
+Oakland
+Marina
+Westlake Village
+Dublin
+Visalia
+
+Solvang
+Baldwin Park
+El Cajon
+Ridgecrest
+Del Mar
+Milpitas
+Indian Wells
+Sacramento
+Yucaipa
+San Carlos
+
+Oceanside
+Dos Palos
+Live Oak
+Rio Vista
+Rancho Cucamonga
+Emeryville
+Moraga
+Vallejo
+Temple City
+Alhambra
+Dorris
+
+Poway
+Bellflower
+San Luis Obispo
+Willows
+Beaumont
+Whittier
+Newman
+Lemon Grove
+Sonoma
+Richmond
+Orange
+Jurupa Valley
+Mountain View
+Fremont
+
+Redwood City
+Montague
+Davis
+Tiburon
+Ferndale
+Lindsay
+San Jose
+San Fernando
+Culver City
+Truckee
+Brentwood
+Malibu
+Montclair
+San Ramon
+Calipatria
+Brea
+Dunsmuir
+Norco
+Fowler
+Lake Elsinore
+Hemet
+Tracy
+Clayton
+Banning
+Capitola
+Parlier
+West Sacramento
+Manhattan Beach
+Kerman
+Concord
+Crescent City
+Imperial Beach
+Portola Valley
+Thousand Oaks
+Larkspur
+Buena Park
+Porterville
+Stanton
+Laguna Hills
+Fort Jones
+Colton
+Monrovia
+Calistoga
+Claremont
+Half Moon Bay
+Norwalk
+Yreka
+Long Beach
+Oroville
+
+Oakdale
+Huntington Beach
+Trinidad
+Ontario
+Aliso Viejo
+Laguna Beach
+American Canyon
+Eastvale
+La Mirada
+Morro Bay
+Atascadero
+King City
+Lynwood
+Santa Fe Springs
+Ross
