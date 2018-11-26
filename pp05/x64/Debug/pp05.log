@@ -1,0 +1,9 @@
+﻿  pp05.cpp
+c:\users\7344213\source\repos\csc150f18work\pp05\pp05.cpp(118): error C2665: 'findFirstCity': none of the 2 overloads could convert all the argument types
+  c:\users\7344213\source\repos\csc150f18work\pp05\pp05.cpp(70): note: could be 'int findFirstCity(char [],int)'
+  c:\users\7344213\source\repos\csc150f18work\pp05\pp05.cpp(55): note: or       'int findFirstCity(char [][150],int)'
+  c:\users\7344213\source\repos\csc150f18work\pp05\pp05.cpp(118): note: while trying to match the argument list '(char [6][100], int)'
+c:\users\7344213\source\repos\csc150f18work\pp05\pp05.cpp(136): error C2665: 'findFirstCity': none of the 2 overloads could convert all the argument types
+  c:\users\7344213\source\repos\csc150f18work\pp05\pp05.cpp(70): note: could be 'int findFirstCity(char [],int)'
+  c:\users\7344213\source\repos\csc150f18work\pp05\pp05.cpp(55): note: or       'int findFirstCity(char [][150],int)'
+  c:\users\7344213\source\repos\csc150f18work\pp05\pp05.cpp(136): note: while trying to match the argument list '(char [9][100], int)'

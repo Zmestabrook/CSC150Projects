@@ -1,0 +1,50 @@
+New Mexico,Santa Fe,Roadrunner,Yucca flower,The Land of Enchantment
+Oklahoma,Oklahoma City,Scissor,Mistletoe,The Sooner State
+Wisconsin,Madison,Robin,Wood Violet,The Badger State
+Alabama,Montgomery,Yellowhammer,Camellia,Yellowhammer State
+Minnesota,Saint Paul,Common Loon,Pink and white lady's-slipper,The North Star State
+Michigan,Lansing,Robin,Apple Blossom,The Great Lakes State
+Florida,Tallahassee,Mockingbird,Orange Blossom,The Sunshine State
+Idaho,Boise,Mountain Bluebird,Syringa - Mock Orange,The Gem State
+New Hampshire,Concord,Purple Finch,Purple lilac,The Granite State
+Maryland,Annapolis,Baltimore Oriole,Black-eyed susan,The Old Line State
+Georgia,Atlanta,Brown Thrasher,Cherokee Rose,The Peach State
+Virginia,Richmond,Cardinal ,American Dogwood,The Old Dominion State
+Utah,Salt Lake City,Common American Gull,Sego lily,The Beehive State
+Iowa,Des Moines,Eastern Goldfinch,Wild Prairie Rose,The Hawkeye State
+Ohio,Columbus,Cardinal,Scarlet Carnation,The Buckeye State
+Kansas,Topeka,Western Meadowlark,Sunflower,The Sunflower State
+Montana,Helena,Western Meadowlark,Bitterroot,The Treasure State
+Pennsylvania,Harrisburg,Ruffed Grouse,Mountain Laurel,The Keystone State
+South Carolina,Columbia,Great Carolina Wren,Yellow Jessamine,The Palmetto State
+Maine,Augusta,Chickadee,White pine cone and tassel,The Pine Tree State
+Washington,Olympia,Willow Goldfinch,Coast Rhododendron,The Evergreen State
+Tennessee,Nashville,Mockingbird,Iris,The Volunteer State
+Wyoming,Cheyenne,Western Meadowlark,Indian Paintbrush,The Equality or Cowboy State
+North Dakota,Bismarck,Western Meadowlark,Wild Prairie Rose,The Peace Garden State
+Kentucky,Frankfort,Cardinal,Goldenrod,The Bluegrass State
+Massachusetts,Boston,Chickadee,Trailing-Arbutus,The Bay State
+New Jersey,Trenton,Eastern Goldfinch,Violet,The Garden State
+Arizona,Phoenix,Cactus Wren,Saguaro Cactus Blossom,The Grand Canyon State
+Vermont,Montpelier,Hermit Thrush,Red Clover,The Green Mountain State
+Illinois,Springfield,Cardinal,Purple Violet,Prairie State
+Nevada,Carson City,Mountain Bluebird,Sagebrush,The Silver State
+California,Sacramento,California Valley Quail,California Poppy,The Golden State
+Texas,Austin,Mockingbird,Bluebonnet,The Lone Star State
+Rhode Island,Providence,Rhode Island Red,Violet,The Ocean State
+New York,Albany,Bluebird,Rose,The Empire State
+West Virginia,Charleston,Cardinal,Rhododendron,The Mountain State
+Colorado,Denver,Lark Bunting,Rocky Mountain Columbine  ,The Centennial State
+Mississippi,Jackson,Mockingbird,Magnolia,The Magnolia State
+Indiana,Indianapolis,Cardinal,Peony,The Hoosier State
+Connecticut,Hartford,Robin,Mountain laurel,The Constitution State
+Delaware,Dover,Blue Hen Chicken,Peach Blossom,The First State
+North Carolina,Raleigh,Cardinal,American Dogwood,The Tar Heel State
+Alaska,Juneau,Willow Ptarmigan,Forget Me Not,The Last Frontier
+Hawaii,Honolulu,Nene,Pua Aloalo,The Aloha State
+Arkansas,Little Rock,Mockingbird,Apple Blossom,The Natural State
+Missouri,Jefferson City,Bluebird,Hawthorn,The Show Me State
+Oregon,Salem,Western Meadowlark,Oregon Grape,The Beaver State
+South Dakota,Pierre,Ring,Pasque Flower,Mount Rushmore State
+Louisiana,Baton Rouge,Eastern Brown Pelican,Magnolia,The Pelican State
+Nebraska,Lincoln,Western Meadowlark,Goldenrod,The Cornhusker State
