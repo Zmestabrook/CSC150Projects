@@ -1,0 +1,11 @@
+
+SDSMT Weather Center
+
+Enter the month (1-12): 
+Enter the highs: 
+Enter the lows: 
+Monthly Report for February
+Lowest Temperature: -6
+Highest Temperature: 54
+Average Low Temperature: 5.1
+Average High Temperature: 25.4
